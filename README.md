@@ -31,17 +31,13 @@ lot of time in front of the computer.</p>
 
 # Palettes
 
-Currently decay provides 4 palettes:
+Currently decay provides 3 palettes:
 
-- Decay
 - Dark Decay
 - Decayce
 - Light Decay
 
-> However, Decay and Dark Decay have the same base16 colors. The only change between these palettes are the background colors, Dark Decay is darker
-as the name indicates.
-
-## Decay And Dark Decay
+## Dark Decay
 
 <table>
   <thead>
@@ -53,72 +49,82 @@ as the name indicates.
   </thead>
   <tbody>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decay/red.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/dark-decay/background.png" width="26" height="26" align="center"></p></td>
+      <td>#101419</td>
+      <td>Background</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/foreground.png" width="26" height="26" align="center"></p></td>
+      <td>#b6beca</td>
+      <td>Foreground</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/red.png" width="26" height="26" align="center"></p></td>
       <td>#e05f65</td>
       <td>Red</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decay/red-bright.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/dark-decay/red-bright.png" width="26" height="26" align="center"></p></td>
       <td>#e5646a</td>
       <td>Bright Red</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decay/green.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/dark-decay/green.png" width="26" height="26" align="center"></p></td>
       <td>#78dba9</td>
       <td>Green</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decay/green-bright.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/dark-decay/green-bright.png" width="26" height="26" align="center"></p></td>
       <td>#94F7C5</td>
       <td>Bright Green</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decay/yellow.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/dark-decay/yellow.png" width="26" height="26" align="center"></p></td>
       <td>#f1cf8a</td>
       <td>Yellow</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decay/yellow-bright.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/dark-decay/yellow-bright.png" width="26" height="26" align="center"></p></td>
       <td>#f6d48f</td>
       <td>Bright Yellow</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decay/blue.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/dark-decay/blue.png" width="26" height="26" align="center"></p></td>
       <td>#70a5eb</td>
       <td>Blue</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decay/blue-bright.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/dark-decay/blue-bright.png" width="26" height="26" align="center"></p></td>
       <td>#75aaf0</td>
       <td>Bright Blue</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decay/magenta.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/dark-decay/magenta.png" width="26" height="26" align="center"></p></td>
       <td>#c68aee</td>
       <td>Magenta</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decay/magenta-bright.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/dark-decay/magenta-bright.png" width="26" height="26" align="center"></p></td>
       <td>#cb8ff3</td>
       <td>Bright Magenta</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decay/cyan.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/dark-decay/cyan.png" width="26" height="26" align="center"></p></td>
       <td>#74bee9</td>
       <td>Cyan</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decay/cyan-bright.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/dark-decay/cyan-bright.png" width="26" height="26" align="center"></p></td>
       <td>#79c3ee</td>
       <td>Bright Cyan</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decay/white.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/dark-decay/white.png" width="26" height="26" align="center"></p></td>
       <td>#dee1e6</td>
       <td>White</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decay/white-bright.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/dark-decay/white-bright.png" width="26" height="26" align="center"></p></td>
       <td>#e3e6eb</td>
       <td>Bright White</td>
     </tr>
@@ -136,6 +142,16 @@ as the name indicates.
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/background.png" width="26" height="26" align="center"></p></td>
+      <td>#0d0f18</td>
+      <td>Background</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/foreground.png" width="26" height="26" align="center"></p></td>
+      <td>#a5b6cf</td>
+      <td>Foreground</td>
+    </tr>
     <tr>
       <td><p align="center"><img src="./assets/colors/decayce/red.png" width="26" height="26" align="center"></p></td>
       <td>#dd6777</td>
@@ -220,6 +236,16 @@ as the name indicates.
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/light-decay/background.png" width="26" height="26" align="center"></p></td>
+      <td>#dee1e6</td>
+      <td>Background</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/light-decay/foreground.png" width="26" height="26" align="center"></p></td>
+      <td>#101419</td>
+      <td>Foreground</td>
+    </tr>
     <tr>
       <td><p align="center"><img src="./assets/colors/light-decay/red.png" width="26" height="26" align="center"></p></td>
       <td>#bd3c42</td>
