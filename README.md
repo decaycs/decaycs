@@ -5,7 +5,7 @@
 <h3 align="center">Decay Theme</h3>
 
 <p align="center">Decay is a theme that uses shades of green along with a dark-toned background for better contrast!. The
-contrast between background and primary color helps avoiding any eye fatigue when spending a
+contrast between background and primary color helps avoid any eye fatigue when spending a
 lot of time in front of the computer.</p>
 
 <p align="center">
@@ -31,15 +31,15 @@ lot of time in front of the computer.</p>
 
 # Palettes
 
-Currently decay supports 4 palettes:
+Currently decay provides 4 palettes:
 
 - Decay
 - Dark Decay
 - Decayce
 - Light Decay
 
-> But Decay and Dark Decay has the same base16 colors, the only change between these palettes are the background colors, dark decay is more
-> darkest like how the name says.
+> However, Decay and Dark Decay have the same base16 colors. The only change between these palettes are the background colors, Dark Decay is darker
+as the name indicates.
 
 ## Decay And Dark Decay
 
