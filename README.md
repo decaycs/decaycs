@@ -49,9 +49,49 @@ Currently decay provides 3 palettes:
   </thead>
   <tbody>
     <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/background_5.png" width="26" height="26" align="center"></p></td>
+      <td>#040405</td>
+      <td>Background 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/background_4.png" width="26" height="26" align="center"></p></td>
+      <td>#07080a</td>
+      <td>Background 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/background_3.png" width="26" height="26" align="center"></p></td>
+      <td>#0a0c0f</td>
+      <td>Background 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/background_2.png" width="26" height="26" align="center"></p></td>
+      <td>#0d1014</td>
+      <td>Background 2</td>
+    </tr>
+    <tr>
       <td><p align="center"><img src="./assets/colors/dark-decay/background.png" width="26" height="26" align="center"></p></td>
       <td>#101419</td>
       <td>Background</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/foreground_5.png" width="26" height="26" align="center"></p></td>
+      <td>#6b7078</td>
+      <td>Foreground 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/foreground_4.png" width="26" height="26" align="center"></p></td>
+      <td>#777c85</td>
+      <td>Foreground 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/foreground_3.png" width="26" height="26" align="center"></p></td>
+      <td>#8c929c</td>
+      <td>Foreground 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/foreground_2.png" width="26" height="26" align="center"></p></td>
+      <td>#a1a8b3</td>
+      <td>Foreground 2</td>
     </tr>
     <tr>
       <td><p align="center"><img src="./assets/colors/dark-decay/foreground.png" width="26" height="26" align="center"></p></td>
@@ -59,9 +99,89 @@ Currently decay provides 3 palettes:
       <td>Foreground</td>
     </tr>
     <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/black_3.png" width="26" height="26" align="center"></p></td>
+      <td>#020203</td>
+      <td>Black 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/black_2.png" width="26" height="26" align="center"></p></td>
+      <td>#0f1317</td>
+      <td>Black 2</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/black.png" width="26" height="26" align="center"></p></td>
+      <td>#1c252c</td>
+      <td>Black</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/black-bright_5.png" width="26" height="26" align="center"></p></td>
+      <td>#181c1f</td>
+      <td>Bright Black 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/black-bright_4.png" width="26" height="26" align="center"></p></td>
+      <td>#202529</td>
+      <td>Bright Black 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/black-bright_3.png" width="26" height="26" align="center"></p></td>
+      <td>#282e33</td>
+      <td>Bright Black 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/black-bright_2.png" width="26" height="26" align="center"></p></td>
+      <td>#30373d</td>
+      <td>Bright Black 2</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/black-bright.png" width="26" height="26" align="center"></p></td>
+      <td>#384148</td>
+      <td>Bright Black</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/red_5.png" width="26" height="26" align="center"></p></td>
+      <td>#8f3c41</td>
+      <td>Red 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/red_4.png" width="26" height="26" align="center"></p></td>
+      <td>#a3454a</td>
+      <td>Red 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/red_3.png" width="26" height="26" align="center"></p></td>
+      <td>#b84e53</td>
+      <td>Red 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/red_2.png" width="26" height="26" align="center"></p></td>
+      <td>#cc575c</td>
+      <td>Red 2</td>
+    </tr>
+    <tr>
       <td><p align="center"><img src="./assets/colors/dark-decay/red.png" width="26" height="26" align="center"></p></td>
       <td>#e05f65</td>
       <td>Red</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/red-bright_5.png" width="26" height="26" align="center"></p></td>
+      <td>#ab5358</td>
+      <td>Bright Red 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/red-bright_4.png" width="26" height="26" align="center"></p></td>
+      <td>#bf5d62</td>
+      <td>Bright Red 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/red-bright_3.png" width="26" height="26" align="center"></p></td>
+      <td>#d4676d</td>
+      <td>Bright Red 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/red-bright_2.png" width="26" height="26" align="center"></p></td>
+      <td>#e87177</td>
+      <td>Bright Red 2</td>
     </tr>
     <tr>
       <td><p align="center"><img src="./assets/colors/dark-decay/red-bright.png" width="26" height="26" align="center"></p></td>
@@ -69,9 +189,44 @@ Currently decay provides 3 palettes:
       <td>Bright Red</td>
     </tr>
     <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/green_4.png" width="26" height="26" align="center"></p></td>
+      <td>#579e79</td>
+      <td>Green 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/green_3.png" width="26" height="26" align="center"></p></td>
+      <td>#62b389</td>
+      <td>Green 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/green_2.png" width="26" height="26" align="center"></p></td>
+      <td>#6dc799</td>
+      <td>Green 2</td>
+    </tr>
+    <tr>
       <td><p align="center"><img src="./assets/colors/dark-decay/green.png" width="26" height="26" align="center"></p></td>
       <td>#78dba9</td>
       <td>Green</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/green-bright_5.png" width="26" height="26" align="center"></p></td>
+      <td>#66ab88</td>
+      <td>Bright Green 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/green-bright_4.png" width="26" height="26" align="center"></p></td>
+      <td>#71bd97</td>
+      <td>Bright Green 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/green-bright_3.png" width="26" height="26" align="center"></p></td>
+      <td>#7dd1a7</td>
+      <td>Bright Green 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/green-bright_2.png" width="26" height="26" align="center"></p></td>
+      <td>#88e3b5</td>
+      <td>Bright Green 2</td>
     </tr>
     <tr>
       <td><p align="center"><img src="./assets/colors/dark-decay/green-bright.png" width="26" height="26" align="center"></p></td>
@@ -79,9 +234,49 @@ Currently decay provides 3 palettes:
       <td>Bright Green</td>
     </tr>
     <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/yellow_5.png" width="26" height="26" align="center"></p></td>
+      <td>#a38c5d</td>
+      <td>Yellow 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/yellow_4.png" width="26" height="26" align="center"></p></td>
+      <td>#b89e69</td>
+      <td>Yellow 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/yellow_3.png" width="26" height="26" align="center"></p></td>
+      <td>#ccb075</td>
+      <td>Yellow 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/yellow_2.png" width="26" height="26" align="center"></p></td>
+      <td>#debf7f</td>
+      <td>Yellow 2</td>
+    </tr>
+    <tr>
       <td><p align="center"><img src="./assets/colors/dark-decay/yellow.png" width="26" height="26" align="center"></p></td>
       <td>#f1cf8a</td>
       <td>Yellow</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/yellow-bright_5.png" width="26" height="26" align="center"></p></td>
+      <td>#ad9f71</td>
+      <td>Bright Yellow 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/yellow-bright_4.png" width="26" height="26" align="center"></p></td>
+      <td>#c2b27e</td>
+      <td>Bright Yellow 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/yellow-bright_3.png" width="26" height="26" align="center"></p></td>
+      <td>#d6c58b</td>
+      <td>Bright Yellow 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/yellow-bright_2.png" width="26" height="26" align="center"></p></td>
+      <td>#ebd899</td>
+      <td>Bright Yellow 2</td>
     </tr>
     <tr>
       <td><p align="center"><img src="./assets/colors/dark-decay/yellow-bright.png" width="26" height="26" align="center"></p></td>
@@ -89,9 +284,44 @@ Currently decay provides 3 palettes:
       <td>Bright Yellow</td>
     </tr>
     <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/blue_4.png" width="26" height="26" align="center"></p></td>
+      <td>#527aad</td>
+      <td>Blue 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/blue_3.png" width="26" height="26" align="center"></p></td>
+      <td>#5c88c2</td>
+      <td>Blue 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/blue_2.png" width="26" height="26" align="center"></p></td>
+      <td>#6696d6</td>
+      <td>Blue 2</td>
+    </tr>
+    <tr>
       <td><p align="center"><img src="./assets/colors/dark-decay/blue.png" width="26" height="26" align="center"></p></td>
       <td>#70a5eb</td>
       <td>Blue</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/blue-bright_5.png" width="26" height="26" align="center"></p></td>
+      <td>#6083ad</td>
+      <td>Bright Blue 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/blue-bright_4.png" width="26" height="26" align="center"></p></td>
+      <td>#6b93c2</td>
+      <td>Bright Blue 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/blue-bright_3.png" width="26" height="26" align="center"></p></td>
+      <td>#76a2d6</td>
+      <td>Bright Blue 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/blue-bright_2.png" width="26" height="26" align="center"></p></td>
+      <td>#81b2eb</td>
+      <td>Bright Blue 2</td>
     </tr>
     <tr>
       <td><p align="center"><img src="./assets/colors/dark-decay/blue-bright.png" width="26" height="26" align="center"></p></td>
@@ -99,9 +329,49 @@ Currently decay provides 3 palettes:
       <td>Bright Blue</td>
     </tr>
     <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/magenta_5.png" width="26" height="26" align="center"></p></td>
+      <td>#815a9c</td>
+      <td>Magenta 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/magenta_4.png" width="26" height="26" align="center"></p></td>
+      <td>#9266b0</td>
+      <td>Magenta 4</td>
+    </tr
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/magenta_3.png" width="26" height="26" align="center"></p></td>
+      <td>#a372c4</td>
+      <td>Magenta 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/magenta_2.png" width="26" height="26" align="center"></p></td>
+      <td>#b47ed9</td>
+      <td>Magenta 2</td>
+    </tr>
+    <tr>
       <td><p align="center"><img src="./assets/colors/dark-decay/magenta.png" width="26" height="26" align="center"></p></td>
       <td>#c68aee</td>
       <td>Magenta</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/magenta-bright_5.png" width="26" height="26" align="center"></p></td>
+      <td>#9a71ad</td>
+      <td>Bright Magenta 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/magenta-bright_4.png" width="26" height="26" align="center"></p></td>
+      <td>#ac7ec2</td>
+      <td>Bright Magenta 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/magenta-bright_3.png" width="26" height="26" align="center"></p></td>
+      <td>#be8bd6</td>
+      <td>Bright Magenta 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/magenta-bright_2.png" width="26" height="26" align="center"></p></td>
+      <td>#d099eb</td>
+      <td>Bright Magenta 2</td>
     </tr>
     <tr>
       <td><p align="center"><img src="./assets/colors/dark-decay/magenta-bright.png" width="26" height="26" align="center"></p></td>
@@ -109,9 +379,49 @@ Currently decay provides 3 palettes:
       <td>Bright Magenta</td>
     </tr>
     <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/cyan_5.png" width="26" height="26" align="center"></p></td>
+      <td>#4b7b96</td>
+      <td>Cyan 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/cyan_4.png" width="26" height="26" align="center"></p></td>
+      <td>#558cab</td>
+      <td>Cyan 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/cyan_3.png" width="26" height="26" align="center"></p></td>
+      <td>#5f9cbf</td>
+      <td>Cyan 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/cyan_2.png" width="26" height="26" align="center"></p></td>
+      <td>#69add4</td>
+      <td>Cyan 2</td>
+    </tr>
+    <tr>
       <td><p align="center"><img src="./assets/colors/dark-decay/cyan.png" width="26" height="26" align="center"></p></td>
       <td>#74bee9</td>
       <td>Cyan</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/cyan-bright_5.png" width="26" height="26" align="center"></p></td>
+      <td>#6194ad</td>
+      <td>Bright Cyan</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/cyan-bright_4.png" width="26" height="26" align="center"></p></td>
+      <td>#6da6c2</td>
+      <td>Bright Cyan 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/cyan-bright_3.png" width="26" height="26" align="center"></p></td>
+      <td>#78b7d6</td>
+      <td>Bright Cyan 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/cyan-bright_2.png" width="26" height="26" align="center"></p></td>
+      <td>#84c9eb</td>
+      <td>Bright Cyan 2</td>
     </tr>
     <tr>
       <td><p align="center"><img src="./assets/colors/dark-decay/cyan-bright.png" width="26" height="26" align="center"></p></td>
@@ -119,9 +429,49 @@ Currently decay provides 3 palettes:
       <td>Bright Cyan</td>
     </tr>
     <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/white_5.png" width="26" height="26" align="center"></p></td>
+      <td>#8f9194</td>
+      <td>White 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/white_4.png" width="26" height="26" align="center"></p></td>
+      <td>#a2a5a8</td>
+      <td>White 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/white_3.png" width="26" height="26" align="center"></p></td>
+      <td>#b6b9bd</td>
+      <td>White 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/white_2.png" width="26" height="26" align="center"></p></td>
+      <td>#cacdd1</td>
+      <td>White 2</td>
+    </tr>
+    <tr>
       <td><p align="center"><img src="./assets/colors/dark-decay/white.png" width="26" height="26" align="center"></p></td>
       <td>#dee1e6</td>
       <td>White</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/white-bright_5.png" width="26" height="26" align="center"></p></td>
+      <td>#acaeb0</td>
+      <td>Bright White 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/white-bright_4.png" width="26" height="26" align="center"></p></td>
+      <td>#bec0c2</td>
+      <td>Bright White 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/white-bright_3.png" width="26" height="26" align="center"></p></td>
+      <td>#d2d4d6</td>
+      <td>Bright White 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/dark-decay/white-bright_2.png" width="26" height="26" align="center"></p></td>
+      <td>#e6e9eb</td>
+      <td>Bright White 2</td>
     </tr>
     <tr>
       <td><p align="center"><img src="./assets/colors/dark-decay/white-bright.png" width="26" height="26" align="center"></p></td>
