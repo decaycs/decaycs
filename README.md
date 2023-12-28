@@ -864,7 +864,7 @@ Currently decay provides 3 palettes:
     <tr>
       <td><p align="center"><img src="./assets/colors/decayce/color-#c8cbd0.png" width="26" height="26" align="center"></p></td>
       <td>#c8cbd0</td>
-      <td>Bright White</td> Basically 5 is the last color, but I'm following the order I made when manually doing the colors with a color picker the "normal" color is the last one, but darkest one is 5 they will go upwards wha
+      <td>Bright White</td>
     </tr>
   </tbody>
 </table>
