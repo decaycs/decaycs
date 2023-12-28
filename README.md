@@ -493,83 +493,377 @@ Currently decay provides 3 palettes:
   </thead>
   <tbody>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decayce/background.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#000008.png" width="26" height="26" align="center"></p></td>
+      <td>#000008</td>
+      <td>Background 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#050710.png" width="26" height="26" align="center"></p></td>
+      <td>#050710</td>
+      <td>Background 2</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#0d0f18.png" width="26" height="26" align="center"></p></td>
       <td>#0d0f18</td>
       <td>Background</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decayce/foreground.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#8596af.png" width="26" height="26" align="center"></p></td>
+      <td>#8596af</td>
+      <td>Foreground 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#8d9eb7.png" width="26" height="26" align="center"></p></td>
+      <td>#8d9eb7</td>
+      <td>Foreground 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#9daec7.png" width="26" height="26" align="center"></p></td>
+      <td>#9daec7</td>
+      <td>Foreground 2</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#a5b6cf.png" width="26" height="26" align="center"></p></td>
       <td>#a5b6cf</td>
       <td>Foreground</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decayce/red.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#bd4757.png" width="26" height="26" align="center"></p></td>
+      <td>#bd4757</td>
+      <td>Red 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#c54f5f.png" width="26" height="26" align="center"></p></td>
+      <td>#c54f5f</td>
+      <td>Red 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#cd5767.png" width="26" height="26" align="center"></p></td>
+      <td>#cd5767</td>
+      <td>Red 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#d55f6f.png" width="26" height="26" align="center"></p></td>
+      <td>#d55f6f</td>
+      <td>Red 2</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#dd6777.png" width="26" height="26" align="center"></p></td>
       <td>#dd6777</td>
       <td>Red</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decayce/red-bright.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#c24c5c.png" width="26" height="26" align="center"></p></td>
+      <td>#c24c5c</td>
+      <td>Bright Red 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#ca5464.png" width="26" height="26" align="center"></p></td>
+      <td>#ca5464</td>
+      <td>Bright Red 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#d25c6c.png" width="26" height="26" align="center"></p></td>
+      <td>#d25c6c</td>
+      <td>Bright Red 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#da6474.png" width="26" height="26" align="center"></p></td>
+      <td>#da6474</td>
+      <td>Bright Red 2</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#e26c7c.png" width="26" height="26" align="center"></p></td>
       <td>#e26c7c</td>
       <td>Bright Red</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decayce/green.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#70ae8a.png" width="26" height="26" align="center"></p></td>
+      <td>#70ae8a</td>
+      <td>Green 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#78b692.png" width="26" height="26" align="center"></p></td>
+      <td>#78b692</td>
+      <td>Green 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#80be9a.png" width="26" height="26" align="center"></p></td>
+      <td>#80be9a</td>
+      <td>Green 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#88c6a2.png" width="26" height="26" align="center"></p></td>
+      <td>#88c6a2w</td>
+      <td>Green 2</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#90ceaa.png" width="26" height="26" align="center"></p></td>
       <td>#90ceaa</td>
       <td>Green</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decayce/green-bright.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#75b38f.png" width="26" height="26" align="center"></p></td>
+      <td>#75b38f</td>
+      <td>Bright Green 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#7dbb97.png" width="26" height="26" align="center"></p></td>
+      <td>#7dbb97</td>
+      <td>Bright Green 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#85c39f.png" width="26" height="26" align="center"></p></td>
+      <td>#85c39f</td>
+      <td>Bright Green 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#8dcba7.png" width="26" height="26" align="center"></p></td>
+      <td>#8dcba7</td>
+      <td>Bright Green 2</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#95d3af.png" width="26" height="26" align="center"></p></td>
       <td>#95d3af</td>
       <td>Bright Green</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decayce/yellow.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#ccb380.png" width="26" height="26" align="center"></p></td>
+      <td>#ccb380</td>
+      <td>Yellow 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#d4bb88.png" width="26" height="26" align="center"></p></td>
+      <td>#d4bb88</td>
+      <td>Yellow 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#dcc390.png" width="26" height="26" align="center"></p></td>
+      <td>#dcc390</td>
+      <td>Yellow 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#e4cb98.png" width="26" height="26" align="center"></p></td>
+      <td>#e4cb98</td>
+      <td>Yellow 2</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#ecd3a0.png" width="26" height="26" align="center"></p></td>
       <td>#ecd3a0</td>
       <td>Yellow</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decayce/yellow-bright.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#d1b885.png" width="26" height="26" align="center"></p></td>
+      <td>#d1b885</td>
+      <td>Bright Yellow 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#d9c08d.png" width="26" height="26" align="center"></p></td>
+      <td>#d9c08d</td>
+      <td>Bright Yellow 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#e1c895.png" width="26" height="26" align="center"></p></td>
+      <td>#e1c895</td>
+      <td>Bright Yellow 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#e9d09d.png" width="26" height="26" align="center"></p></td>
+      <td>#e9d09d</td>
+      <td>Bright Yellow 2</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#f1d8a5.png" width="26" height="26" align="center"></p></td>
       <td>#f1d8a5</td>
       <td>Bright Yellow</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decayce/blue.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#668acc.png" width="26" height="26" align="center"></p></td>
+      <td>#668acc</td>
+      <td>Blue 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#6e92d4.png" width="26" height="26" align="center"></p></td>
+      <td>#6e92d4</td>
+      <td>Blue 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#769adc.png" width="26" height="26" align="center"></p></td>
+      <td>#769adc</td>
+      <td>Blue 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#7ea2e4.png" width="26" height="26" align="center"></p></td>
+      <td>#7ea2e4</td>
+      <td>Blue 2</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#86aaec.png" width="26" height="26" align="center"></p></td>
       <td>#86aaec</td>
       <td>Blue</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decayce/blue-bright.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#6b8fd1.png" width="26" height="26" align="center"></p></td>
+      <td>#6b8fd1</td>
+      <td>Bright Blue 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#7b9fe1.png" width="26" height="26" align="center"></p></td>
+      <td>#7b9fe1</td>
+      <td>Bright Blue 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#83a7e9.png" width="26" height="26" align="center"></p></td>
+      <td>#83a7e9</td>
+      <td>Bright Blue 2</td>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#8baff1.png" width="26" height="26" align="center"></p></td>
       <td>#8baff1</td>
       <td>Bright Blue</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decayce/magenta.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#a77bd0.png" width="26" height="26" align="center"></p></td>
+      <td>#a77bd0</td>
+      <td>Magenta 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#af83d8.png" width="26" height="26" align="center"></p></td>
+      <td>#af83d8</td>
+      <td>Magenta 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#b78be0.png" width="26" height="26" align="center"></p></td>
+      <td>#b78be0</td>
+      <td>Magenta 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#bf93e8.png" width="26" height="26" align="center"></p></td>
+      <td>#bf93e8</td>
+      <td>Magenta 2</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#c79bf0.png" width="26" height="26" align="center"></p></td>
       <td>#c296eb</td>
       <td>Magenta</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decayce/magenta-bright.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#a77bd0.png" width="26" height="26" align="center"></p></td>
+      <td>#a77bd0</td>
+      <td>Bright Magenta 5</td>
+    </tr>
+    <tr> 
+      <td><p align="center"><img src="./assets/colors/decayce/color-#af83d8.png" width="26" height="26" align="center"></p></td>
+      <td>#af83d8</td>
+      <td>Bright Magenta 4</td>
+    </tr>
+    <tr> 
+      <td><p align="center"><img src="./assets/colors/decayce/color-#b78be0.png" width="26" height="26" align="center"></p></td>
+      <td>#b78be0</td>
+      <td>Bright Magenta 3</td>
+    </tr>
+    <tr> 
+      <td><p align="center"><img src="./assets/colors/decayce/color-#bf93e8.png" width="26" height="26" align="center"></p></td>
+      <td>#bf93e8</td>
+      <td>Bright Magenta 2</td>
+    </tr> 
+    <tr> 
+      <td><p align="center"><img src="./assets/colors/decayce/color-#c79bf0.png" width="26" height="26" align="center"></p></td>
       <td>#c79bf0</td>
       <td>Bright Magenta</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decayce/cyan.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#73aec9.png" width="26" height="26" align="center"></p></td>
+      <td>#73aec9</td>
+      <td>Cyan 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#7bb6d1.png" width="26" height="26" align="center"></p></td>
+      <td>#7bb6d1</td>
+      <td>Cyan 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#83bed9.png" width="26" height="26" align="center"></p></td>
+      <td>#83bed9</td>
+      <td>Cyan 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#8bc6e1.png" width="26" height="26" align="center"></p></td>
+      <td>#8bc6e1</td>
+      <td>Cyan 2</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#93cee9.png" width="26" height="26" align="center"></p></td>
       <td>#93cee9</td>
       <td>Cyan</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decayce/cyan-bright.png" width="26" height="26" align="center"></p></td>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#90cbe6.png" width="26" height="26" align="center"></p></td>
       <td>#98d3ee</td>
+      <td>Bright Cyan 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#88c3de.png" width="26" height="26" align="center"></p></td>
+      <td>#88c3de</td>
+      <td>Bright Cyan 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#90cbe6.png" width="26" height="26" align="center"></p></td>
+      <td>#90cbe6</td>
+      <td>Bright Cyan 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#80bbd6.png" width="26" height="26" align="center"></p></td>
+      <td>#80bbd6</td>
+      <td>Bright Cyan 2</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#78b3ce.png" width="26" height="26" align="center"></p></td>
+      <td>#78b3ce</td>
       <td>Bright Cyan</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decayce/white.png" width="26" height="26" align="center"></p></td>
-      <td>#cbced3</td>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#abaeb3.png" width="26" height="26" align="center"></p></td>
+      <td>#abaeb3</td>
+      <td>White 5</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#b3b6bb.png" width="26" height="26" align="center"></p></td>
+      <td>#b3b6bb</td>
+      <td>White 4</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#bbbec3.png" width="26" height="26" align="center"></p></td>
+      <td>#bbbec3</td>
+      <td>White 3</td>
+    </tr> 
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#c3c6cb.png" width="26" height="26" align="center"></p></td>
+      <td>#c3c6cb</td>
+      <td>White 2</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#d0d3d8.png" width="26" height="26" align="center"></p></td>
+      <td>#d0d3d8</td>
       <td>White</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="./assets/colors/decayce/white-bright.png" width="26" height="26" align="center"></p></td>
-      <td>#d0d3d8</td>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#b0b3b8.png" width="26" height="26" align="center"></p></td>
+      <td>#b0b3b8</td>
+      <td>Bright White 4</td>
+    </tr> uh these arent the colors i have in my palette xd
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#b8bbc0.png" width="26" height="26" align="center"></p></td>
+      <td>#b8bbc0</td>
+      <td>Bright White 3</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#c0c3c8.png" width="26" height="26" align="center"></p></td>
+      <td>#c0c3c8</td>
+      <td>Bright White 2</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="./assets/colors/decayce/color-#c8cbd0.png" width="26" height="26" align="center"></p></td>
+      <td>#c8cbd0</td>
       <td>Bright White</td>
     </tr>
   </tbody>
