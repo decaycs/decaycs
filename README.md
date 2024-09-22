@@ -406,7 +406,7 @@ Currently decay provides 3 palettes:
     <tr>
       <td><p align="center"><img src="./assets/colors/dark-decay/cyan-bright_5.png" width="26" height="26" align="center"></p></td>
       <td>#6194ad</td>
-      <td>Bright Cyan</td>
+      <td>Bright Cyan 5</td>
     </tr>
     <tr>
       <td><p align="center"><img src="./assets/colors/dark-decay/cyan-bright_4.png" width="26" height="26" align="center"></p></td>
